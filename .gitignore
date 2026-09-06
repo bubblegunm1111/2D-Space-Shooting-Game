@@ -1,0 +1,20 @@
+# Visual Studio files & compiled binaries
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.unsuccessfulbuild
+*.FileListAbsolute.txt
+*.suo
+*.user
+*.ipch
+*.db
+*.opendb
